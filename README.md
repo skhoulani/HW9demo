@@ -1,2 +1,3 @@
-# HW9demo
-Demo Presentation for Class
+# HW9
+Homework 9 for GUI I
+Simple Scrabble Game Board
